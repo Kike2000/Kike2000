@@ -6,4 +6,4 @@ En mi tiempo libre me dedico a desarrollar proyectos personales donde pueda mejo
 🌱 Estoy aprendiendo Python y me quiero orientar a Machine Learning y Ciber-Seguridad. <br>
 📫 Contacto: https://pedrocrodriguez.com/index.html
               https://www.linkedin.com/in/pedroenrique-carrillo/<br>
-⚡ Otros datos no tan relevantes: Me gusta ir a la playa después de trabajo y mis mascotas.
+⚡ Otros datos no tan relevantes: Me gusta ir a la playa y pasar tiempo con mis mascotas.
